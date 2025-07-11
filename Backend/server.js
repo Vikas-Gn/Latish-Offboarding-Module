@@ -444,5 +444,5 @@ app.post('/api/offboarding/check-duplicate', async (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log(`Server running at http://13.201.28.100:${port}`);
+    console.log(`Server running at http://3.110.120.41:${port}`);
 });
