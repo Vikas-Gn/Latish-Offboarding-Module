@@ -1,4 +1,3 @@
--- Create employee_info table
 CREATE TABLE employee_info (
     id SERIAL PRIMARY KEY,
     full_name VARCHAR(50) NOT NULL,
